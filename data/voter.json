@@ -1,0 +1,43 @@
+[
+  {
+    "VoterId": 1,
+		"Name": "testName",
+		"Email": "testEmail",
+		"VoteHistory": [
+			{
+				"PollId": 1,
+				"VoteId": 1,
+				"VoteDate": "0001-01-01T00:00:00Z"
+			}
+		]
+  },
+  {
+    "VoterId": 2,
+		"Name": "testName2",
+		"Email": "testEmail2",
+		"VoteHistory": [
+			{
+				"PollId": 2,
+				"VoteId": 2,
+				"VoteDate": "0001-01-01T00:00:00Z"
+			},
+			{
+				"PollId": 6,
+				"VoteId": 2,
+				"VoteDate": "0001-01-01T00:00:00Z"
+			}
+		]
+  },
+  {
+    "VoterId": 3,
+		"Name": "testName3",
+		"Email": "testEmail3",
+		"VoteHistory": [
+			{
+				"PollId": 3,
+				"VoteId": 3,
+				"VoteDate": "0001-01-01T00:00:00Z"
+			}
+		]
+  }
+]
